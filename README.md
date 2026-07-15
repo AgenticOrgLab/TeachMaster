@@ -1,16 +1,25 @@
-# <img src="figs/teachmaster_logo.png" alt="TeachMaster logo" width="52" style="vertical-align: middle;"> TeachMaster: Generative Teaching via Code
+<p align="center">
+  <img src="figs/teachmaster_logo.png" alt="TeachMaster logo" height="120"/>
+</p>
 
+<h1 align="center">TeachMaster: Generative Teaching via Code</h1>
 
 <p align="center">
-  <a href="https://www.teachmaster.cn"><strong>🌐 Project Website</strong></a>
-  ·
-  <a href="https://aclanthology.org/2026.acl-industry.7/"><strong>📄 Paper</strong></a>
+  Turning pedagogical intent into curriculum-ready educational videos
+</p>
+
+<p align="center">
+  <a href="https://aclanthology.org/2026.acl-industry.7/"><img src="https://img.shields.io/badge/Paper-ACL%202026-blue?style=flat-square" alt="Paper"/></a>
+  <a href="https://www.teachmaster.cn"><img src="https://img.shields.io/badge/Project-Website-0A7F5A?style=flat-square" alt="Project Website"/></a>
 </p>
 
 TeachMaster introduces **Generative Teaching**, a new paradigm where educators act as high-level directors while AI agents handle lesson planning, visual design, animation rendering, narration, and quality validation.
 
 Unlike end-to-end pixel-level video generation, TeachMaster uses **executable code as an intermediate semantic medium**. This makes generated teaching videos more interpretable, editable, controllable, and suitable for scalable educational content production.
 
+<p align="center">
+  <video src="figs/teachmaster.mp4" controls width="90%"></video>
+</p>
 
 ## 📰 News
 
@@ -48,6 +57,10 @@ TeachMaster decomposes educational video production into three main stages:
 ## 📊 Results
 
 Experiments show that TeachMaster approaches the quality of human-crafted educational videos while offering a substantial efficiency advantage over traditional production workflows and end-to-end video generation baselines.
+
+<p align="center">
+  <img src="figs/table_1.png" alt="Video generation quality and efficiency evaluation" width="95%">
+</p>
 
 TeachMaster demonstrates strong performance in:
 
