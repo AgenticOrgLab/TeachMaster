@@ -73,7 +73,7 @@ TeachMaster demonstrates strong performance in:
 - real-world educator and student feedback.
 
 <p align="center">
-  <img src="figs/cases.gif" alt="TeachMaster real-world classroom cases" width="90%">
+  <img src="figs/cases.gif" alt="TeachMaster real-world classroom cases" width="70%">
 </p>
 
 In practical deployment, TeachMaster has served **1,500+ educators**, generated **140,000+ minutes** of educational content, and covered **420+ disciplines**. Producing a standard 45-hour semester-long course costs approximately **0.3%** of traditional online course production expenses.
