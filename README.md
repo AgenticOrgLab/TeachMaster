@@ -1,19 +1,21 @@
-# <img src="figs/teachmaster_logo.png" alt="TeachMaster logo" width="52" style="vertical-align: middle; transform: translateY(2px);"> TeachMaster: Generative Teaching via Code
+# <img src="figs/teachmaster_logo.png" alt="TeachMaster logo" width="52" style="vertical-align: middle;"> TeachMaster: Generative Teaching via Code
 
 **TeachMaster** is a code-centric multi-agent framework for **Generative Teaching**, turning pedagogical intent into curriculum-ready educational videos.
 
-<p>
+<p align="center">
   <a href="https://www.teachmaster.cn"><strong>🌐 Project Website</strong></a>
   ·
-  <a href="#-highlights">Highlights</a>
-  ·
-  <a href="#-framework">Framework</a>
-  ·
-  <a href="#-results">Results</a>
+  <a href="https://aclanthology.org/2026.acl-industry.7/"><strong>📄 Paper</strong></a>
 </p>
 
 **Paper:** *TeachMaster: Generative Teaching via Code*  
-**Website:** [www.teachmaster.cn](https://www.teachmaster.cn)
+
+## 📰 News
+
+- 🚀 **June 2026**: TeachMaster 3.0 was released.
+- ✨ **April 2026**: TeachMaster 2.0 was released.
+- 🏆 **April 2026**: The TeachMaster paper was accepted by ACL 2026.
+- 🎉 **December 2025**: TeachMaster 1.0 was launched.
 
 TeachMaster introduces **Generative Teaching**, a new paradigm where educators act as high-level directors while AI agents handle lesson planning, visual design, animation rendering, narration, and quality validation.
 
