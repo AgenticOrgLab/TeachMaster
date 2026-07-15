@@ -84,9 +84,9 @@ In practical deployment, TeachMaster has served **1,500+ educators**, generated 
 
 ```
 @inproceedings{wang-etal-2026-teachmaster,
-  title = "{T}each{M}aster: Generative Teaching via Code",
+  title = "TeachMaster: Generative Teaching via Code",
   author = "Wang, Yuheng and Yang, Runde and Wu, Lin and Zhang, Jie and Fan, Jingru and Zhou, Tianle and Fu, Ruoyu and Li, Huatao and Shi, Ruijie and Chen, Siheng and E, Weinan and Qian, Chen",
-  month = jul,
+  month = july,
   year = "2026",
   publisher = "Association for Computational Linguistics",
   url = "https://aclanthology.org/2026.acl-industry.7/",
