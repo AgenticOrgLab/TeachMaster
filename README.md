@@ -1,4 +1,4 @@
-# TeachMaster: Generative Teaching via Code
+# <img src="figs/teachmaster_logo.png" alt="TeachMaster logo" width="52" align="center"> TeachMaster: Generative Teaching via Code
 
 TeachMaster is a code-centric multi-agent framework for **Generative Teaching**: an intent-driven paradigm where educators act as high-level directors while AI agents handle the production of curriculum-ready teaching materials.
 
