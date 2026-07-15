@@ -1,6 +1,5 @@
 # <img src="figs/teachmaster_logo.png" alt="TeachMaster logo" width="52" style="vertical-align: middle;"> TeachMaster: Generative Teaching via Code
 
-**TeachMaster** is a code-centric multi-agent framework for **Generative Teaching**, turning pedagogical intent into curriculum-ready educational videos.
 
 <p align="center">
   <a href="https://www.teachmaster.cn"><strong>🌐 Project Website</strong></a>
@@ -8,7 +7,10 @@
   <a href="https://aclanthology.org/2026.acl-industry.7/"><strong>📄 Paper</strong></a>
 </p>
 
-**Paper:** *TeachMaster: Generative Teaching via Code*  
+TeachMaster introduces **Generative Teaching**, a new paradigm where educators act as high-level directors while AI agents handle lesson planning, visual design, animation rendering, narration, and quality validation.
+
+Unlike end-to-end pixel-level video generation, TeachMaster uses **executable code as an intermediate semantic medium**. This makes generated teaching videos more interpretable, editable, controllable, and suitable for scalable educational content production.
+
 
 ## 📰 News
 
@@ -16,10 +18,6 @@
 - ✨ **April 2026**: TeachMaster 2.0 was released.
 - 🏆 **April 2026**: The TeachMaster paper was accepted by ACL 2026.
 - 🎉 **December 2025**: TeachMaster 1.0 was launched.
-
-TeachMaster introduces **Generative Teaching**, a new paradigm where educators act as high-level directors while AI agents handle lesson planning, visual design, animation rendering, narration, and quality validation.
-
-Unlike end-to-end pixel-level video generation, TeachMaster uses **executable code as an intermediate semantic medium**. This makes generated teaching videos more interpretable, editable, controllable, and suitable for scalable educational content production.
 
 ## ✨ Highlights
 
@@ -63,4 +61,26 @@ This repository contains the paper source and related assets for TeachMaster, in
 
 ## 📌 Citation
 
-If you find TeachMaster useful, please consider citing the paper once the official citation information is available.
+```
+@inproceedings{wang-etal-2026-teachmaster,
+    title = "{T}each{M}aster: Generative Teaching via Code",
+    author = "Wang, Yuheng  and
+      Yang, Runde  and
+      Wu, Lin  and
+      Zhang, Jie  and
+      Fan, Jingru  and
+      Zhou, Tianle  and
+      Fu, Ruoyu  and
+      Li, Huatao  and
+      Shi, Ruijie  and
+      Chen, Siheng  and
+      E, Weinan  and
+      Qian, Chen",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 6: Industry Track)",
+    month = jul,
+    year = "2026", 
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-industry.7/",
+    doi = "10.18653/v1/2026.acl-industry.7"
+}
+```
