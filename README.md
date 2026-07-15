@@ -94,6 +94,6 @@ In practical deployment, TeachMaster has served **1,500+ educators**, generated 
 }
 ```
 
-## 📄 License
+## 📬 Contact
 
-This project is licensed under the MIT License.
+If you have any questions, feedback, or would like to get in touch, please feel free to reach out to us via email at [qianc62@gmail.com](mailto:qianc62@gmail.com) or [yuhengwangagent@gmail.com](mailto:yuhengwangagent@gmail.com).
