@@ -81,7 +81,7 @@ In practical deployment, TeachMaster has served **1,500+ educators**, generated 
 
 ## 📌 Citation
 
-``` 
+```
 @inproceedings{wang-etal-2026-teachmaster,
   title = "{T}each{M}aster: Generative Teaching via Code",
   author = "Wang, Yuheng and Yang, Runde and Wu, Lin and Zhang, Jie and Fan, Jingru and Zhou, Tianle and Fu, Ruoyu and Li, Huatao and Shi, Ruijie and Chen, Siheng and E, Weinan and Qian, Chen",
@@ -92,3 +92,7 @@ In practical deployment, TeachMaster has served **1,500+ educators**, generated 
   doi = "10.18653/v1/2026.acl-industry.7"
 }
 ```
+
+## 📄 License
+
+This project is licensed under the MIT License.
