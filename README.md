@@ -19,7 +19,7 @@ Unlike end-to-end pixel-level video generation, TeachMaster uses **executable co
     <img src="figs/teachmaster_preview.gif" alt="TeachMaster demo video preview" width="90%">
   </a>
   <br/>
-  <a href="figs/teachmaster.mp4">Watch the full demo video</a>
+  <a href="figs/teachmaster.mp4">👉 Watch the full video</a>
 </p>
 
 ## 📰 News
@@ -63,6 +63,7 @@ Experiments show that TeachMaster approaches the quality of human-crafted educat
   <img src="figs/table_1.png" alt="Video generation quality and efficiency evaluation" width="95%">
 </p>
 
+
 TeachMaster demonstrates strong performance in:
 
 - video generation quality,
@@ -71,7 +72,11 @@ TeachMaster demonstrates strong performance in:
 - production efficiency,
 - real-world educator and student feedback.
 
-In practical deployment, TeachMaster has served **1,000+ educators**, generated **30,000+ minutes** of educational content, and covered **40+ disciplines**. Producing a standard 45-hour semester-long course costs approximately **0.3%** of traditional online course production expenses.
+<p align="center">
+  <img src="figs/cases.gif" alt="TeachMaster real-world classroom cases" width="90%">
+</p>
+
+In practical deployment, TeachMaster has served **1,500+ educators**, generated **140,000+ minutes** of educational content, and covered **420+ disciplines**. Producing a standard 45-hour semester-long course costs approximately **0.3%** of traditional online course production expenses.
 
 
 ## 📌 Citation
