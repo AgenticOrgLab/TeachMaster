@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://aclanthology.org/2026.acl-industry.7/"><img src="https://img.shields.io/badge/Paper-ACL%202026-blue?style=flat-square" alt="Paper"/></a>
   <a href="https://www.teachmaster.cn"><img src="https://img.shields.io/badge/Project-Website-0A7F5A?style=flat-square" alt="Project Website"/></a>
+  <a href="https://mp.weixin.qq.com/s/lCaqkI165X-T2mmto2iQ9A"><img src="https://img.shields.io/badge/WeChat-Article-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Article"/></a>
 </p>
 
 TeachMaster introduces **Generative Teaching**, a new paradigm where educators act as high-level directors while AI agents handle lesson planning, visual design, animation rendering, narration, and quality validation.
