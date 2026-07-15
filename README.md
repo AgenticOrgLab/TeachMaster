@@ -4,9 +4,6 @@
 
 <h1 align="center">TeachMaster: Generative Teaching via Code</h1>
 
-<p align="center">
-  Turning pedagogical intent into curriculum-ready educational videos
-</p>
 
 <p align="center">
   <a href="https://aclanthology.org/2026.acl-industry.7/"><img src="https://img.shields.io/badge/Paper-ACL%202026-blue?style=flat-square" alt="Paper"/></a>
@@ -18,7 +15,11 @@ TeachMaster introduces **Generative Teaching**, a new paradigm where educators a
 Unlike end-to-end pixel-level video generation, TeachMaster uses **executable code as an intermediate semantic medium**. This makes generated teaching videos more interpretable, editable, controllable, and suitable for scalable educational content production.
 
 <p align="center">
-  <video src="figs/teachmaster.mp4" controls width="90%"></video>
+  <a href="figs/teachmaster.mp4">
+    <img src="figs/teachmaster_preview.gif" alt="TeachMaster demo video preview" width="90%">
+  </a>
+  <br/>
+  <a href="figs/teachmaster.mp4">Watch the full demo video</a>
 </p>
 
 ## 📰 News
