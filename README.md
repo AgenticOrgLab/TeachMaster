@@ -55,32 +55,17 @@ TeachMaster demonstrates strong performance in:
 
 In practical deployment, TeachMaster has served **1,000+ educators**, generated **30,000+ minutes** of educational content, and covered **40+ disciplines**. Producing a standard 45-hour semester-long course costs approximately **0.3%** of traditional online course production expenses.
 
-## 📁 Repository Contents
-
-This repository contains the paper source and related assets for TeachMaster, including the ACL-style LaTeX manuscript, bibliography, style files, and figures used in the paper.
 
 ## 📌 Citation
 
-```
+``` 
 @inproceedings{wang-etal-2026-teachmaster,
-    title = "{T}each{M}aster: Generative Teaching via Code",
-    author = "Wang, Yuheng  and
-      Yang, Runde  and
-      Wu, Lin  and
-      Zhang, Jie  and
-      Fan, Jingru  and
-      Zhou, Tianle  and
-      Fu, Ruoyu  and
-      Li, Huatao  and
-      Shi, Ruijie  and
-      Chen, Siheng  and
-      E, Weinan  and
-      Qian, Chen",
-    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 6: Industry Track)",
-    month = jul,
-    year = "2026", 
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2026.acl-industry.7/",
-    doi = "10.18653/v1/2026.acl-industry.7"
+  title = "{T}each{M}aster: Generative Teaching via Code",
+  author = "Wang, Yuheng and Yang, Runde and Wu, Lin and Zhang, Jie and Fan, Jingru and Zhou, Tianle and Fu, Ruoyu and Li, Huatao and Shi, Ruijie and Chen, Siheng and E, Weinan and Qian, Chen",
+  month = jul,
+  year = "2026",
+  publisher = "Association for Computational Linguistics",
+  url = "https://aclanthology.org/2026.acl-industry.7/",
+  doi = "10.18653/v1/2026.acl-industry.7"
 }
 ```
