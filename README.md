@@ -32,6 +32,10 @@ Unlike end-to-end pixel-level video generation, TeachMaster uses **executable co
 
 TeachMaster decomposes educational video production into three main stages:
 
+<p align="center">
+  <img src="figs/main_fig_01.png" alt="TeachMaster framework" width="95%">
+</p>
+
 1. **Content Planning**  
    Converts raw teaching intents into coherent manuscripts and page-level instructional blueprints.
 
